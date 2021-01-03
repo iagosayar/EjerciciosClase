@@ -1,0 +1,11 @@
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\obj\Debug\netcoreapp2.1\Ejercicio1Serv.csprojAssemblyReference.cache
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\obj\Debug\netcoreapp2.1\Ejercicio1Serv.csproj.CoreCompileInputs.cache
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\obj\Debug\netcoreapp2.1\Ejercicio1Serv.AssemblyInfoInputs.cache
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\obj\Debug\netcoreapp2.1\Ejercicio1Serv.AssemblyInfo.cs
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\bin\Debug\netcoreapp2.1\Ejercicio1Serv.deps.json
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\bin\Debug\netcoreapp2.1\Ejercicio1Serv.runtimeconfig.json
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\bin\Debug\netcoreapp2.1\Ejercicio1Serv.runtimeconfig.dev.json
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\bin\Debug\netcoreapp2.1\Ejercicio1Serv.dll
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\bin\Debug\netcoreapp2.1\Ejercicio1Serv.pdb
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\obj\Debug\netcoreapp2.1\Ejercicio1Serv.dll
+C:\Users\iagosayar\source\repos\Ejercicio1Serv\Ejercicio1Serv\obj\Debug\netcoreapp2.1\Ejercicio1Serv.pdb
